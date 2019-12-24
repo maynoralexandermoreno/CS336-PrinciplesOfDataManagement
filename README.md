@@ -17,12 +17,14 @@ Final project is located in cs336DB, in 20projectCode.zip and cs336DBFinal.war
 
 Website can be reached at http://ec2-13-58-131-72.us-east-2.compute.amazonaws.com:8080/cs336DBFinal/
 
-Alex2 is username for admin; Alex3 is username for customer rep; password is password for both.
-
-Customer can be self-created
+Alex2 is username for admin; Alex3 is username for customer rep; password is password for both. Customer can be self-created with the sign-up page. 
 
 Many thanks to teammates:
+
 Daniel Alvarado;
+
 Rahul Patel;
+
 Jonathan Pinto;
-Naveenan Yogeswaran;
+
+Naveenan Yogeswaran
